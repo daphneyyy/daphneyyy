@@ -1,13 +1,12 @@
 ### Hi there 👋 I am Xuewen
 ## About me
-<p> ✨ My preferred name is <strong>Daphne</strong> ✨</p>
-<p>I am currently a thrid-year undergraduate student at <a href="https://ucsd.edu">University of California, San Diego</a>, double majoring in <a href="https://math.ucsd.edu">Mathematics-Computer Science(MA30)</a> and <a href="https://datascience.ucsd.edu/">Data Science(DS25)</a>.</p>
+<p>  My preferred name is ✨ <strong>Daphne</strong> ✨ I am currently a thrid-year undergraduate student at <a href="https://ucsd.edu">University of California, San Diego</a>, double majoring in <a href="https://math.ucsd.edu">Mathematics-Computer Science(MA30)</a> and <a href="https://datascience.ucsd.edu/">Data Science(DS25)</a>.</p>
 
 🦋 Pronouns: she/her/hers
 
 😃 Fun fact: I can speak Cantonese, Mandarin and English.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuewen-daphne-yang/)
+📄 Check out my <strong><a href="https://github.com/daphneyyy/daphneyyy/blob/4c0f0fc93e21df1637a19ad34af7b98edc70a22a/Xuewen_Yang_Resume2.pdf">resume</a></strong>. More details on <strong><a href="https://www.linkedin.com/in/xuewen-daphne-yang/">Linkedin</a></strong>. 
 
 ## Professional
 ### 💻 Things I've learned:

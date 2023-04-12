@@ -3,9 +3,11 @@
 <p> ✨ My preferred name is <strong>Daphne</strong> ✨</p>
 <p>I am currently a thrid-year undergraduate student at <a href="https://ucsd.edu">University of California, San Diego</a>, double majoring in <a href="https://math.ucsd.edu">Mathematics-Computer Science(MA30)</a> and <a href="https://datascience.ucsd.edu/">Data Science(DS25)</a>.</p>
 
+🦋 Pronouns: she/her/hers
+
 😃 Fun fact: I can speak Cantonese, Mandarin and English.
 
-🦋 Pronouns: she/her/hers
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuewen-daphne-yang/)
 
 ## Professional
 ### 💻 Things I've learned:

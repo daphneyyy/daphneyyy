@@ -29,7 +29,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📊 Github Stats 
-[![Daphne's Github stats](https://github-readme-stats.vercel.app/api?username=daphneyyy&count_private=true&show_icons=true&custom_title=Daphne%20Yang's%20GitHub%20Stats)](https://github.com/daphneyyy)
+[![Daphne's Github stats](https://github-readme-stats.vercel.app/api?username=daphneyyy&count_private=true&show_icons=true&card_width=450&custom_title=Daphne%20Yang's%20GitHub%20Stats)](https://github.com/daphneyyy)
 
 ### 🌐 Programming Languages 
 [![Daphne's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daphneyyy&hide=jupyter%20notebook&layout=compact&card_width=450)](https://github.com/daphneyyy)

@@ -6,7 +6,7 @@
 
 😃 Fun fact: I can speak Cantonese, Mandarin and English.
 
-📄 Check out my <strong><a href="https://github.com/daphneyyy/daphneyyy/blob/main/Xuewen_Yang_Resume2.pdf">resume</a></strong>. More details on <strong><a href="https://www.linkedin.com/in/xuewen-daphne-yang/">Linkedin</a></strong>. 
+📄 Check out my <strong><a href="https://github.com/daphneyyy/daphneyyy/blob/main/Resume.pdf">resume</a></strong>. More details on <strong><a href="https://www.linkedin.com/in/xuewen-daphne-yang/">Linkedin</a></strong>. 
 
 ## Professional
 ### 💻 Things I've learned:

@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Xuewen
 ## About me
-<p>  My preferred name is ✨ <strong>Daphne</strong> ✨ I am currently a thrid-year undergraduate student at <a href="https://ucsd.edu">University of California, San Diego</a>, double majoring in <a href="https://math.ucsd.edu">Mathematics-Computer Science(MA30)</a> and <a href="https://datascience.ucsd.edu/">Data Science(DS25)</a>.</p>
+<p>  My preferred name is ✨ <strong>Daphne</strong> ✨ I am currently a fourth-year undergraduate student at <a href="https://ucsd.edu">University of California, San Diego</a>, double majoring in <a href="https://math.ucsd.edu">Mathematics-Computer Science(MA30)</a> and <a href="https://datascience.ucsd.edu/">Data Science(DS25)</a>.</p>
 
 🦋 Pronouns: she/her/hers
 

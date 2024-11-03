@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Xuewen
 ## About me
-<p>  My preferred name is ✨ <strong>Daphne</strong> ✨ I am a recent graduate from <a href="https://ucsd.edu">University of California, San Diego</a>, having completed my double major in <a href="https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/">Mathematics-Computer Science(MA30)</a> and <a href="https://datascience.ucsd.edu/">Data Science(DS25)</a>.</p>
+<p>  My preferred name is ✨ <strong>Daphne</strong> ✨ I am a Master's student at <a href="https://ucsd.edu">University of California - San Diego</a>, taking <a href="https://omds.ucsd.edu/courses">Master of Data Science</a> degree. I also graduated from <a href="https://ucsd.edu">University of California - San Diego</a> with double majors in <a href="https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/">Mathematics-Computer Science(MA30)</a> and <a href="https://datascience.ucsd.edu/">Data Science(DS25)</a>.</p>
 
 🦋 Pronouns: she/her/hers
 
@@ -10,8 +10,9 @@
 
 ## Professional
 ### 💻 Tech Stacks:
-
+[//]: # (https://dev.to/envoy_/150-badges-for-github-pnk)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

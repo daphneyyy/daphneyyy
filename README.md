@@ -27,10 +27,10 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 Github Stats 
-[![Daphne's Github stats](https://github-readme-stats.vercel.app/api?username=daphneyyy&count_private=true&show_icons=true&card_width=450&custom_title=Daphne%20Yang's%20GitHub%20Stats)](https://github.com/daphneyyy)
+[![Daphne's Github stats](https://readmestats-sooty.vercel.app/api?username=daphneyyy&count_private=true&show_icons=true&card_width=450&custom_title=Daphne%20Yang's%20GitHub%20Stats)](https://github.com/daphneyyy)
 
 ### 🌐 Programming Languages 
-[![Daphne's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daphneyyy&hide=jupyter%20notebook&layout=compact&card_width=450)](https://github.com/daphneyyy)
+[![Daphne's top languages](https://readmestats-sooty.vercel.app/api/top-langs/?username=daphneyyy&hide=jupyter%20notebook&layout=compact&card_width=450)](https://github.com/daphneyyy)
 
 ### 🔍 LeetCode Stats
 [![Daphne's leetcode stats](https://leetcard.jacoblin.cool/daphneyyy)](https://leetcode.com/daphneyyy/)

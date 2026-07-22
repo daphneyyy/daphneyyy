@@ -1,12 +1,15 @@
-### Hi there 👋 I am Xuewen
-## About me
-<p>  My preferred name is ✨ <strong>Daphne</strong> ✨ I am a Master's student at <a href="https://ucsd.edu">University of California - San Diego</a>, taking <a href="https://omds.ucsd.edu/courses">Master of Data Science</a> degree. I also graduated from <a href="https://ucsd.edu">University of California - San Diego</a> with double majors in <a href="https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/">Mathematics-Computer Science(MA30)</a> and <a href="https://datascience.ucsd.edu/">Data Science(DS25)</a>.</p>
 
-🦋 Pronouns: she/her/hers
+# Hi, I'm Daphne 👋
 
-😃 Fun fact: I can speak Cantonese, Mandarin and English.
+I'm a data-focused software engineer based in the San Francisco Bay Area. I enjoy building reliable data pipelines, validation systems, and backend tools that turn large-scale data into trustworthy products.
 
-📄 Check out my <strong><a href="https://github.com/daphneyyy/daphneyyy/blob/main/Resume.pdf">resume</a></strong>. More details on <strong><a href="https://www.linkedin.com/in/xuewen-daphne-yang/">Linkedin</a></strong>. 
+* 🎓 **Master of Data Science**, University of California San Diego
+* 🎓 **B.S. in Data Science** and **B.S. in Mathematics–Computer Science**, UC San Diego
+* 💻 Experience with **Python, Scala, SQL, Apache Spark, Airflow, and GCP**
+* 🔧 Interested in **data engineering, data platforms, backend systems, and data reliability**
+* 🌏 I speak **Cantonese, Mandarin, and English**
+* 📄 View my [resume](https://github.com/daphneyyy/daphneyyy/blob/main/Resume.pdf) or connect with me on [LinkedIn](https://www.linkedin.com/in/xuewen-daphne-yang/)
+
 
 ## Professional
 ### 💻 Tech Stacks:

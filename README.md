@@ -34,3 +34,26 @@
 
 ### 🔍 LeetCode Stats
 [![Daphne's leetcode stats](https://leetcard.jacoblin.cool/daphneyyy)](https://leetcode.com/daphneyyy/)
+
+<!-- ============================================================ -->
+
+### 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/daphneyyy/daphneyyy/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/daphneyyy/daphneyyy/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/daphneyyy/daphneyyy/output/github-snake.svg"
+  />
+</picture>
+
+</div>
